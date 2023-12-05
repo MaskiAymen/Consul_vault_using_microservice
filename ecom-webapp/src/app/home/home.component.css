@@ -1,0 +1,6 @@
+.hero {
+  position: relative;
+  background: url('https://cdn2.hubspot.net/hubfs/3365633/iStock-1051616786.jpg') center/cover no-repeat;
+  color: white;
+  height: 100vh;
+}
