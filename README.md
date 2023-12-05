@@ -53,18 +53,22 @@ Application using microservices architecture
 
 
 # affichage des produit
+<img src="captures/capture1.png"></img>
 
 # affichages des clients
+<img src="captures/capture2.png"></img>
 
 # affichages des commandes des clients
+<img src="captures/capture3.png"></img>
 
 
 # affichages des details pour chaque commande
 
+<img src="captures/capture4.png"></img>
 
 # page contact
 
-
+<img src="captures/capture5.png"></img>
 # page home
-
+<img src="captures/capture6.png"></img>
  
