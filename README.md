@@ -42,9 +42,29 @@ Application using microservices architecture
     Actuator
     Consul Discovery(pour enregistrement des utilisateur)
 # Création d'un projet vide nommée("Act4_MASKI")
+
 # Configuration de Consul descovery
 
 <h3>Commande pour lancer Consul</h3>
 <strong>> consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=192.168.43.32</strong>
 <h3>Commande pour lancer Vault</h3>
 <strong>> vault server -dev</strong>
+
+
+
+# affichage des produit
+
+# affichages des clients
+
+# affichages des commandes des clients
+
+
+# affichages des details pour chaque commande
+
+
+# page contact
+
+
+# page home
+
+ 
