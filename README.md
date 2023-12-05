@@ -5,6 +5,16 @@ Application using microservices architecture
     installation des Microservice 
 # Lien vers
     spring.io
+# Structure du proje
+    consul-discovery: Service de découverte Consul.
+    spring-cloud-config: Configuration centralisée avec Spring Cloud Config.
+    spring-cloud-gateway: Passerelle API avec Spring Cloud Gateway.
+    customer-service: Microservice de gestion des clients.
+    inventory-service: Microservice de gestion des stocks.
+    order-service: Microservice de gestion des commandes.
+    consul-config: Configuration Consul pour le service de facturation.
+    vault: Configuration Vault pour le service de facturation.
+    frontend-angular: Frontend Web développé avec Angular.
 
 # config-service qui va contenir nos configuration
     Utilisation des dependances suivante
