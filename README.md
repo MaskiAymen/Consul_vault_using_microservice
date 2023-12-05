@@ -1,4 +1,4 @@
-<h4>Creation des microservices et ajout des dependences</h4>
+<h1>Creation des microservices et ajout des dependences</h1>
 
 <h3>Commande pour lancer Consul</h3>
 <strong>> consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=192.168.43.32</strong>
