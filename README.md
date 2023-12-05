@@ -5,7 +5,7 @@ Application using microservices architecture
     installation des Microservice 
 # Lien vers
     spring.io
-# Structure du proje
+# Structure du projet
     consul-discovery: Service de découverte Consul.
     spring-cloud-config: Configuration centralisée avec Spring Cloud Config.
     spring-cloud-gateway: Passerelle API avec Spring Cloud Gateway.
